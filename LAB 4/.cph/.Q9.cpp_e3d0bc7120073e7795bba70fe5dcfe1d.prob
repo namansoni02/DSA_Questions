@@ -1,0 +1,1 @@
+{"name":"Local: Q9","url":"e:\\DSA LAB\\LAB 4\\Q9.cpp","tests":[{"id":1725271437431,"input":"7 3\n1 3 2 6 1 -1 5\n4 -1 0","output":"2 2 0 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA LAB\\LAB 4\\Q9.cpp","group":"local","local":true}

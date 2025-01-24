@@ -1,0 +1,1 @@
+{"name":"Local: Q8","url":"e:\\DSA LAB\\LAB 4\\Q8.cpp","tests":[{"id":1725440889848,"input":"7\n1 2 3 -1 4 -1 5","output":"1 | 3 2 | 4 5 | \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA LAB\\LAB 4\\Q8.cpp","group":"local","local":true}
